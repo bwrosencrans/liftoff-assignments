@@ -18,7 +18,7 @@ Calorie Tracker with a Basal Metabolic Rate (BMR) formula to calculate weekly we
 
 4) Calculated projected weight loss or weight gain based on diet and level of activity.  See link for more information regarding Basal Metabolic Rate as it relates to activity level (exercise): http://www.checkyourhealth.org/eat-healthy/cal_calculator.php
 
-5) When the user understands their caloric intake, and how it affects their weight, he or she can reduce or increase consumption.  For example, I could have maintained my weight for week 1 so will need to cut out 250 calories per day in order to reach my goal of losing X amount of weight in pounds.
+5) When the user understands their caloric intake, and how it affects their weight, he or she can reduce or increase consumption.  For example, I could have maintained my weight for week 1 so will need to cut out 250 calories per day in order to reach my goal of losing X amount of weight in pounds for week 2.
 
 ### Technologies
 CSS, HTML, Java, MySQL Workbench, JavaScript, MVC, Thymeleaf, BootStrap
