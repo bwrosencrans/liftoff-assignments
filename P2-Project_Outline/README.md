@@ -7,12 +7,24 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
-Include overview here
+Calorie Tracker with a Basal Metabolic Rate (BMR) formula to calculate weekly weight loss or weight gain based on nutrition goals.
+
 ### Features
-Include Features here
+1) Calorie Tracker (i.e. input food items for breakfast, lunch, dinner, and snacks in between).
+
+2) User input area to update personal BMR.
+
+3) When a specific type of food is added by the user, it will be stored in the database for future use, so it is not redundant to readd foods.
+
+4) Calculated projected weight loss or weight gain based on diet and level of activity.  See link for more information regarding Basal Metabolic Rate as it relates to activity level (exercise): http://www.checkyourhealth.org/eat-healthy/cal_calculator.php
+
+5) When the user understands their caloric intake, and how it affects their weight, he or she can reduce or increase consumption.
+
 ### Technologies
-Include Technologies here
+CSS, HTML, Java, MySQL Workbench, JavaScript, MVC, Thymeleaf, BootStrap
+
 ### What I'll Have to Learn
-Include what you will need to learn here
+I will need to refresh my memory on some JavaScript as well as certain concepts of Java.  Additionally, I will have to learn to implement CSS templates into my project.
+
 ### Project Tracker
-Link to your Trello board here
+https://trello.com/b/f0JhMIyr/liftoff-application
