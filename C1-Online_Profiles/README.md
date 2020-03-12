@@ -13,6 +13,6 @@ https://github.com/bwrosencrans
 https://www.linkedin.com/in/brad-rosencrans/
 
 ### Resume
-Alternately submitted directly to mentor.
+Alternately submitted directly to mentor
 
 > *Your GitHub repository is public* if you do not want to upload your resume to a public facing repository, talk with your mentor about an alternate way to submit this assignment.
