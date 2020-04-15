@@ -16,4 +16,4 @@ https://trello.com/b/f0JhMIyr/liftoff-application
 
 ### Project Repo Link
 
-Include a link to your project on GitHub.
+https://github.com/bwrosencrans/calorie-tracker-mvp
